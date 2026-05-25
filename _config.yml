@@ -1,0 +1,10 @@
+title: Pedro Saliba
+description: Pesquisador em Direito e Tecnologia
+url: https://pedrosaliba.github.io
+baseurl: ""
+theme: minima
+author:
+  name: Pedro Saliba
+  email: pedrosaliba@proton.me
+plugins:
+  - jekyll-feed
