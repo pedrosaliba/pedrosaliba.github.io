@@ -1,11 +1,13 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
+
+[EN](/en/cv/)
+
+[Download CV em PDF](/files/cv.pdf)
 
 {% include base_path %}
 
