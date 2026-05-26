@@ -1,14 +1,14 @@
-\---
+---
 
 layout: home
 
 title: Home
 
-\---
+---
 
 
 
-\# Bem-vindo
+# Bem-vindo
 
 
 
