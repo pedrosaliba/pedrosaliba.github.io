@@ -8,11 +8,11 @@ title: Home
 
 
 
-\# Boas-vindas
+\# Bem-vindo
 
 
 
-Sou pesquisador em Direito e Tecnologia. Trabalho principalmente com segurança, vigilância e direitos fundamentais. 
+Sou pesquisador em Direito e Tecnologia. Trabalho principalmente com segurança, vigilância e direitos fundamentais.
 
 
 
